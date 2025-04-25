@@ -8,7 +8,7 @@ COVID-19, first identified in Wuhan, China, in December 2019, rapidly evolved in
 
 The primary objectives of this project are:
 
-- Develop a machine learning model to classify cough sounds for COVID-19 detection.
+- Develop a Deep learning model to classify cough sounds for COVID-19 detection.
 - Explore various audio feature extraction techniques.
 - Address data imbalance challenges within the dataset.
 - Optimize model performance for better accuracy.
